@@ -1,0 +1,11 @@
+# Ignorar carpetas de caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de PyCharm
+.idea/
+*.iml
+
+# Otros archivos comunes que no se suelen subir
+.DS_Store
+.env
