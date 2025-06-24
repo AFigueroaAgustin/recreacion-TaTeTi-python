@@ -1,5 +1,6 @@
 import random
 
+
 # Inicio del juego
 # TODO: Se encargara de llevar el control de las jugadas
 def jugada(tb, fi):

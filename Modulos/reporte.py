@@ -1,5 +1,5 @@
 
-#Todo:Realiza un reporte de la partida jugada
+# Todo:Realiza un reporte de la partida jugada
 def informe(eq1, eq2, d, j):
     print(f" JUGADAS: {j:<30}")
     print(f" {"Equipo N°1":<15} {"Equipo N°2":<15}")

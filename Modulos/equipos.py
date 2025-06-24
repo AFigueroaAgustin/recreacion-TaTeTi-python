@@ -1,4 +1,5 @@
 
+
 # TODO: Se encarga de cargar los datos del equipo N°1
 def carga_de_eq1(v):
     b = 0
