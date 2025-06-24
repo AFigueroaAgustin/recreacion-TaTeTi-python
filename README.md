@@ -11,7 +11,7 @@ Se ejecuta por consola y está diseñado bajo el paradigma **imperativo**, utili
 - 🕹️ Juego interactivo por consola.  
 - 🧩 Modularización del código para mayor claridad y mantenimiento.  
 - 🔢 Uso de **NumPy** para la gestión eficiente del tablero y jugadas.  
-- 📊 Generación de un reporte final al concluir la partida con resultados y los putos de cada jugador y equipo.
+- 📊 Generación de un reporte final al concluir la partida con resultados.
 
 ---
 
@@ -33,3 +33,9 @@ Se ejecuta por consola y está diseñado bajo el paradigma **imperativo**, utili
 3. Ejecutar el juego:
    ```bash
    python main.py
+---
+## 🎮 Uso
+El juego se juega desde la consola.
+Se debe ingresar las posiciones para colocar las fichas y al final se muestra un reporte con el resultado.
+
+
